@@ -1,0 +1,24 @@
+/home/walter/MM_2013/hellogl/android/gen/org/qtproject/example/hellogl/R.java \
+ : /home/walter/MM_2013/hellogl/android/res/values-it/strings.xml \
+/home/walter/MM_2013/hellogl/android/res/values-de/strings.xml \
+/home/walter/MM_2013/hellogl/android/res/values-nl/strings.xml \
+/home/walter/MM_2013/hellogl/android/res/values-pt-rBR/strings.xml \
+/home/walter/MM_2013/hellogl/android/res/values-fa/strings.xml \
+/home/walter/MM_2013/hellogl/android/res/values-fr/strings.xml \
+/home/walter/MM_2013/hellogl/android/res/values-zh-rCN/strings.xml \
+/home/walter/MM_2013/hellogl/android/res/layout/splash.xml \
+/home/walter/MM_2013/hellogl/android/res/values-ru/strings.xml \
+/home/walter/MM_2013/hellogl/android/res/values-zh-rTW/strings.xml \
+/home/walter/MM_2013/hellogl/android/res/values-rs/strings.xml \
+/home/walter/MM_2013/hellogl/android/res/values-id/strings.xml \
+/home/walter/MM_2013/hellogl/android/res/values-es/strings.xml \
+/home/walter/MM_2013/hellogl/android/res/values-ro/strings.xml \
+/home/walter/MM_2013/hellogl/android/res/values-el/strings.xml \
+/home/walter/MM_2013/hellogl/android/res/values-pl/strings.xml \
+/home/walter/MM_2013/hellogl/android/res/values-ms/strings.xml \
+/home/walter/MM_2013/hellogl/android/res/values-et/strings.xml \
+/home/walter/MM_2013/hellogl/android/res/values-nb/strings.xml \
+/home/walter/MM_2013/hellogl/android/res/values-ja/strings.xml \
+/home/walter/MM_2013/hellogl/android/res/values/libs.xml \
+/home/walter/MM_2013/hellogl/android/res/values/strings.xml \
+/home/walter/MM_2013/hellogl/android/bin/AndroidManifest.xml \

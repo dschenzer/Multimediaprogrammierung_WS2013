@@ -1,0 +1,26 @@
+/home/walter/MM_2013/hellogl/android/bin/classes.dex : \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/qtproject/example/hellogl/R.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/qtproject/example/hellogl/R$string.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/qtproject/example/hellogl/R$array.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/qtproject/example/hellogl/R$attr.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/qtproject/example/hellogl/BuildConfig.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/qtproject/example/hellogl/R$layout.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/qtproject/qt5/android/bindings/QtApplication.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$6.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3$1$1.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$1.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/qtproject/qt5/android/bindings/QtApplication$InvokeResult.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$5.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3$1.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$2.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$4.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub$Proxy.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub$Proxy.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/kde/necessitas/ministro/IMinistro.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub.class \
+/home/walter/MM_2013/hellogl/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback.class \
+/home/walter/MM_2013/hellogl/android/bin/dexedLibs/annotations-15b56c01cf6ba71b7471d58cf704c173.jar \
+/home/walter/MM_2013/hellogl/android/bin/dexedLibs/--Managed_by_Qt_Creator--QtAndroid-bundled-f15684d416cbe94ceb90366fe382db26.jar \
