@@ -1,4 +1,4 @@
-Multimediaprogrammierung_WS2013
+Multimediaprogrammierung
 ===============================
 
-Multimediaprogrammierung WS2013
+Multimediaprogrammierung
